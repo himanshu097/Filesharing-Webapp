@@ -3,9 +3,9 @@
 Rest api using Node, Express, Mongo.
 We will build a file sharing app. 
 
-![demo gif]
 
-<!-- (https://github.com/ShivamJoker/GIF-Demos/raw/master/inshare%20demo.gif) -->
+
+
 
 
 ## Installation 
