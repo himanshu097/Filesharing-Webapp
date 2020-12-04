@@ -1,6 +1,6 @@
 
 
-Rest api using Node, Express, Mongo.
+A webapp using Node, Express, Mongo.
 We will build a file sharing app. 
 
 
